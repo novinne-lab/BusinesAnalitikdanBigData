@@ -1,0 +1,2 @@
+# BusinesAnalitikdanBigData
+bahan ajar kuliah
